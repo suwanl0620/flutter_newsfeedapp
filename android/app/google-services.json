@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "961475462383",
+    "firebase_url": "https://newfeed-app-default-rtdb.firebaseio.com",
+    "project_id": "newfeed-app",
+    "storage_bucket": "newfeed-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961475462383:android:a49756b6f06c9db363871a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_newsfeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvTQsCudZGT9qGjSq0_kWhCl6BFM-h3Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
